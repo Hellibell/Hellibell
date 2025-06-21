@@ -2,7 +2,7 @@
 <h3 align="center">If you need help then message me on Discord</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=FF66C4&center=true&vCenter=true&width=435&lines=Helli+Bell+%F0%9F%A4%96;Au" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=FF66C4&center=true&vCenter=true&width=435&lines=Helli+Bell+%F0%9F%A4%96" />
 </p>
 
 ---
